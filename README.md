@@ -45,3 +45,10 @@ Open `http://127.0.0.1:5173` (Vite proxies `/api` to the backend).
 
 - `backend/app/` — API, DB models, processing pipeline
 - `frontend/` — dashboard UI
+
+
+<img width="1683" height="1099" alt="image" src="https://github.com/user-attachments/assets/3dcd3019-652b-4e7b-b896-de34c74c086d" />
+<img width="1688" height="1097" alt="image" src="https://github.com/user-attachments/assets/68f45eb6-6261-461a-9308-eee6752461cf" />
+<img width="1683" height="1095" alt="image" src="https://github.com/user-attachments/assets/0739837b-9dbf-4896-9e4a-7b9280c94dfb" />
+
+
